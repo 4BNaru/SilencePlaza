@@ -45,7 +45,7 @@ MonoBehaviour:
     nodes:
     - fullName: Event_Custom
       uid: 61615463-abec-409b-bf07-d15932e06a2e
-      position: {x: -176.65623, y: 24.050104}
+      position: {x: -329.1635, y: -38.96423}
       nodeUIDs:
       - 
       flowUIDs:
@@ -53,18 +53,6 @@ MonoBehaviour:
       nodeValues:
       - unityObjectValue: {fileID: 0}
         stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|UnPause
-    - fullName: UnityEngineAudioSource.__Play__SystemVoid
-      uid: 13eb1371-89b4-49d1-aaa2-cdd25bdb86db
-      position: {x: 947.73755, y: -43.385006}
-      nodeUIDs:
-      - 
-      - 
-      flowUIDs: []
-      nodeValues:
-      - unityObjectValue: {fileID: 0}
-        stringValue: 
-      - unityObjectValue: {fileID: 0}
-        stringValue: System.UInt64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|0
     - fullName: Variable_UnityEngineAudioSource
       uid: 7809171a-b807-45ec-8f5b-270ee1ffabd8
       position: {x: 0, y: 0}
@@ -113,7 +101,7 @@ MonoBehaviour:
         stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|none
     - fullName: Get_Variable
       uid: fb81af21-3fe6-4664-944b-5d44c70d70f5
-      position: {x: 306.10733, y: 114.33803}
+      position: {x: 153.83644, y: 51.03577}
       nodeUIDs:
       - 
       flowUIDs: []
@@ -124,7 +112,7 @@ MonoBehaviour:
         stringValue: 
     - fullName: Get_Variable
       uid: 7b8d2c78-42c2-4243-8ec8-27891ce7cfc5
-      position: {x: 15.499005, y: 258.99997}
+      position: {x: -137.16354, y: 196.03578}
       nodeUIDs:
       - 
       flowUIDs: []
@@ -135,7 +123,7 @@ MonoBehaviour:
         stringValue: 
     - fullName: UnityEngineAudioSource.__UnPause__SystemVoid
       uid: 651255b5-cbb5-4bc1-9ec0-9bf7e1ddced7
-      position: {x: 541.501, y: -83.488266}
+      position: {x: 389.83643, y: -145.96422}
       nodeUIDs:
       - fb81af21-3fe6-4664-944b-5d44c70d70f5|0
       flowUIDs:
@@ -145,7 +133,7 @@ MonoBehaviour:
         stringValue: 
     - fullName: UnityEngineAudioSource.__UnPause__SystemVoid
       uid: fe0a605c-fcfe-4d0b-af31-eb173a15e8ed
-      position: {x: 350.996, y: 207.47913}
+      position: {x: 198.83652, y: 144.03578}
       nodeUIDs:
       - 7b8d2c78-42c2-4243-8ec8-27891ce7cfc5|0
       flowUIDs: []
@@ -245,7 +233,7 @@ MonoBehaviour:
         stringValue: 
     - fullName: Block
       uid: 496465c6-d4fd-447b-8e7e-54e20210f0e6
-      position: {x: 86.72953, y: 95.471115}
+      position: {x: -65.16355, y: 32.03577}
       nodeUIDs: []
       flowUIDs:
       - 651255b5-cbb5-4bc1-9ec0-9bf7e1ddced7
@@ -289,7 +277,7 @@ MonoBehaviour:
     uid: de0b63e9-9182-4c99-aa76-767650079206
     jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":10.0,"y":130.0,"width":200.0,"height":150.0}}'
   viewTransform:
-    position: {x: 467, y: 82}
-    scale: 0.43232757
+    position: {x: 826, y: -745}
+    scale: 1
   version: 1.0.0
   showAssembly: 0
