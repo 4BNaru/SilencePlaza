@@ -55,7 +55,7 @@ MonoBehaviour:
         stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|UnPause
     - fullName: Variable_UnityEngineAudioSource
       uid: 7809171a-b807-45ec-8f5b-270ee1ffabd8
-      position: {x: 0, y: 0}
+      position: {x: -161.09476, y: -670.34436}
       nodeUIDs:
       - 
       - 
@@ -78,7 +78,7 @@ MonoBehaviour:
         stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|none
     - fullName: Variable_UnityEngineAudioSource
       uid: db5ec285-ca04-40ea-a3ac-68c9f05d03dd
-      position: {x: 0, y: 0}
+      position: {x: -161.09476, y: -670.34436}
       nodeUIDs:
       - 
       - 
@@ -274,10 +274,16 @@ MonoBehaviour:
     updateOrder: 0
   graphElementData:
   - type: 5
-    uid: de0b63e9-9182-4c99-aa76-767650079206
-    jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":10.0,"y":130.0,"width":200.0,"height":150.0}}'
+    uid: 2fe016ae-0f53-47d6-b377-099ae2b5f78b
+    jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":10.0,"y":130.0,"width":229.0,"height":161.0}}'
+  - type: 2
+    uid: ac30923a-3859-4db2-83fd-d3d76a4975d5
+    jsonData: '{"uid":"ac30923a-3859-4db2-83fd-d3d76a4975d5","layout":{"serializedVersion":"2","x":-354.0000305175781,"y":-205.00003051757813,"width":902.0,"height":507.0},"containedElements":["61615463-abec-409b-bf07-d15932e06a2e","fb81af21-3fe6-4664-944b-5d44c70d70f5","7b8d2c78-42c2-4243-8ec8-27891ce7cfc5","651255b5-cbb5-4bc1-9ec0-9bf7e1ddced7","fe0a605c-fcfe-4d0b-af31-eb173a15e8ed","496465c6-d4fd-447b-8e7e-54e20210f0e6"],"title":"UnPause","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
+  - type: 2
+    uid: 50f6b5da-1934-4277-a082-2e858f3dd430
+    jsonData: '{"uid":"50f6b5da-1934-4277-a082-2e858f3dd430","layout":{"serializedVersion":"2","x":-557.0000610351563,"y":342.0,"width":1499.0,"height":654.0},"containedElements":["fa76682f-8bae-4961-a3cd-27f6d11b3613","e61ecccf-3f57-4a7c-88dd-bdc96ef664f3","5e754766-26a4-4eaa-a483-359c344b181a","c96057ff-cdac-4d57-b34d-e0c579c67cc0","8befa35c-bd42-44af-9843-7518fdf09bcd","ab12d357-6c8d-4f95-88d5-e7a1e2a97726","dc8df5bf-83f2-4237-a6ed-10c5ec1bcaca","9732f1a4-7d9e-4342-b62a-ebcff08a6b17","ff2d6701-ba85-4d39-9927-4cd69d2919a5","c0c8c663-de31-47ad-880f-2e29126d9ce1","a3e4210b-a2aa-47f2-a3e0-a20fcde6065a","7eda6bad-1400-41f3-a77a-bf07f3fe145c"],"title":"Play","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
   viewTransform:
-    position: {x: 826, y: -745}
-    scale: 1
+    position: {x: 555, y: 153}
+    scale: 0.2842624
   version: 1.0.0
   showAssembly: 0

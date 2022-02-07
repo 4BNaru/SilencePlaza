@@ -51,7 +51,7 @@ MonoBehaviour:
         stringValue: 
     - fullName: Variable_UnityEngineAudioSource
       uid: 9e4b6ac1-9d2b-44ee-84ee-4049c61230aa
-      position: {x: 0, y: 0}
+      position: {x: -191.77776, y: -494.38083}
       nodeUIDs:
       - 
       - 
@@ -85,7 +85,7 @@ MonoBehaviour:
         stringValue: 
     - fullName: Variable_UnityEngineAudioSource
       uid: 3458f8dd-d8b8-47a2-a72f-06e106d9e75d
-      position: {x: 0, y: 0}
+      position: {x: -191.77776, y: -494.38083}
       nodeUIDs:
       - 
       - 
@@ -139,8 +139,11 @@ MonoBehaviour:
   - type: 5
     uid: 43106a78-4d4f-415f-864a-3919ebfec0ea
     jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":10.0,"y":131.0,"width":265.0,"height":378.0}}'
+  - type: 2
+    uid: b0ee63c4-c12c-4d46-a565-500317588181
+    jsonData: '{"uid":"b0ee63c4-c12c-4d46-a565-500317588181","layout":{"serializedVersion":"2","x":-152.9999237060547,"y":255.99996948242188,"width":821.0,"height":523.0},"containedElements":["9d80aafd-2709-4fb7-b02f-673498b49358","e84ae86f-e4b0-4185-8149-1cb6a853808a","a3830eee-99ef-4e43-b719-9241d68fadc2","6b382cb1-8692-49e2-ab3e-87a42aa22c30","d3601e7b-4d8d-4e4b-a1f4-74babd286bad","be495881-a7f3-4a30-bcb2-c3b72a7d1883"],"title":"Pause","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
   viewTransform:
-    position: {x: 450, y: -137}
-    scale: 0.7561437
+    position: {x: 574, y: 217}
+    scale: 0.2
   version: 1.0.0
   showAssembly: 0
