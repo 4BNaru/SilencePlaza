@@ -2607,7 +2607,7 @@ MonoBehaviour:
     uid: e4dc4ee8-14ce-4180-94dd-7cc48649769b
     jsonData: '{"uid":"e4dc4ee8-14ce-4180-94dd-7cc48649769b","layout":{"serializedVersion":"2","x":-421.0,"y":699.0,"width":1035.0,"height":682.0},"containedElements":["fcfbcc17-0b4b-467f-80c5-e8c899a1bcda","c08ae1cc-c919-4ddd-8b32-eb8cb980cf00","61261714-0447-46b7-a087-0e61c3a2f348","05901f18-95e4-4255-bf75-cb8cf70ecdca","0cb146a9-4c76-407b-8d3b-113eedb209fd","64e455bc-b078-4319-8c8d-9d5eb31ea0ab","f8456b73-2d32-4a4c-8db3-d37054d8a8cd","500bcb63-e800-44ea-96f0-3ce082ae8f6b","1f77944c-436b-4c73-9e10-ed0694ae5bdb"],"title":"Stop","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
   viewTransform:
-    position: {x: 1033, y: 251}
-    scale: 0.2
+    position: {x: 1427, y: 264}
+    scale: 0.49717674
   version: 1.0.0
   showAssembly: 0
