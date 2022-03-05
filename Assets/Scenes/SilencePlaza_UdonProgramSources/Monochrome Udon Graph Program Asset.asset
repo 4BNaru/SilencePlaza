@@ -68,7 +68,7 @@ MonoBehaviour:
         stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|none
     - fullName: Get_Variable
       uid: cd544608-b3d1-42e6-a6c9-a14dd320f25b
-      position: {x: 272, y: 367}
+      position: {x: 271, y: 360}
       nodeUIDs:
       - 
       flowUIDs: []
@@ -120,7 +120,7 @@ MonoBehaviour:
     updateOrder: 0
   graphElementData: []
   viewTransform:
-    position: {x: 223, y: -155}
+    position: {x: 69, y: -110}
     scale: 1
   version: 1.0.0
   showAssembly: 0
